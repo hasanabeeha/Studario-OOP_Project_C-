@@ -1,0 +1,4 @@
+Coin
+Degree
+DueDate
+TV
